@@ -1,0 +1,27 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+myenv/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Models / Data
+# *.pkl
+*.csv
+
+# VSCode
+.vscode/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
